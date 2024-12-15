@@ -14,7 +14,7 @@
 		1C57B89F2D0D894F008B4741 /* Exceptions for "Diary" folder in "Diary" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 1C57B88C2D0D894D008B4741 /* Diary */;
 		};
